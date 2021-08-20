@@ -16,9 +16,9 @@ This is a Advanced Python Project which deals with fake and real news. Using skl
 
 ## About Dataset
 -Dataset has a shape of 7769×4
--- Column 1 : Identifies the News
--- Column 2 : Title of News
--- Column 3 : Text of News
--- Column 4 : Labels denoting whether the news is REAL or FAKE.
+- Column 1 : Identifies the News
+- Column 2 : Title of News
+- Column 3 : Text of News
+- Column 4 : Labels denoting whether the news is REAL or FAKE.
 
 
