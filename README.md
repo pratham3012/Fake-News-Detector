@@ -21,4 +21,13 @@ This is a Advanced Python Project which deals with fake and real news. Using skl
 - Column 3 : Text of News
 - Column 4 : Labels denoting whether the news is REAL or FAKE.
 
+## Libraries Used
+
+- Numpy[https://numpy.org/]
+- Pandas [https://pandas.pydata.org/]
+- scikit Learn [https://scikit-learn.org/stable/]
+
+## Conclusion
+Using a political dataset, implemented a TfidfVectorizer, initialized a PassiveAggressiveClassifier, and fit our model. We ended up obtaining an accuracy of **92.82%** in magnitude.
+
 
